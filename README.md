@@ -1,5 +1,7 @@
 # easy_future_builder
 
+Provides a better `FutureBuilder` experience.
+
 ## Installation
 
 ```bash

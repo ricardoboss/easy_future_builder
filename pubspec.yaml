@@ -1,11 +1,12 @@
 name: easy_future_builder
-description: "A new Flutter project."
+description: "Provides a better `FutureBuilder` experience."
+repository: https://github.com/ricardoboss/easy_future_builder
 
-version: 1.0.0+1
+version: 1.0.0
 
 environment:
   sdk: ^3.5.3
-  flutter: ^3.24.3
+  flutter: '>=3.24.3'
 
 dependencies:
   flutter:
